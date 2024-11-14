@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import '@fortawesome/fontawesome-free/css/all.css';
+
+html{
+    scroll-behavior: smooth;
+}
+*{
+    font-family: 'open sans', sans-serif;
+}
+h1,h2,h3,p,a, button, label, input,select,span,table,option{
+
+    font-family: 'Poppins', sans-serif;
+    font-weight:500
+}
